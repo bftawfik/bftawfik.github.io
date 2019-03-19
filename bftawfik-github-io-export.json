@@ -75,6 +75,7 @@
     },
     "portfolio" : {
       "projects" : [ {
+        "order": "1",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/Twitter_Bot_Tutorial_Node.js_and_Processing",
           "liveVersion" : "https://twitter.com/2Bftawfik"
@@ -83,6 +84,7 @@
         "tags" : [ "Javascript", "Node.js", "Twit", "Twitter Api", "Git", "Github", "Illustrator" ],
         "title" : "Twitter Bot 2"
       }, {
+        "order": "10",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/canvasClock",
           "liveVersion" : "https://bftawfik.github.io/canvasClock/"
@@ -91,14 +93,16 @@
         "tags" : [ "Javascript", "HTML5", "Canvas", "Pug", "Css", "Sass", "jQuery", "Git", "Github" ],
         "title" : "Canvas Clock"
       }, {
+        "order": "5",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/globbyGame",
           "liveVersion" : "https://bftawfik.github.io/globbygame/"
         },
         "projectImgPath" : "/img/projects/globbyhtml5game",
-        "tags" : [ "Javascript", "HTML5", "Canvas", "Pug", "Css", "Sass", "jQuery", "Git", "Github" ],
+        "tags" : [ "Game", "Javascript", "HTML5", "Canvas", "Pug", "Css", "Sass", "jQuery", "Git", "Github" ],
         "title" : "Globby HTML5 Game"
       }, {
+        "order": "7",
         "externalLinks" : {
           "liveVersion" : "http://www.hawadeet.net/hawadeet/"
         },
@@ -106,6 +110,7 @@
         "tags" : [ "Javascript", "Wordpress", "HTML5", "Css", "Photoshop" ],
         "title" : "Hawadeet.net"
       }, {
+        "order": "2",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/myPortofolio",
           "liveVersion" : "https://bftawfik.github.io"
@@ -114,30 +119,34 @@
         "tags" : [ "Javascript", "Node.js", "React.js", "React Router", "Git", "Github", "Illustrator", "Bootstrap", "Express", "Firebase", "Sass" ],
         "title" : "My Portfolio"
       }, {
+        "order": "6",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/spaceWarGame",
           "liveVersion" : "https://bftawfik.github.io/spaceWarGame/"
         },
         "projectImgPath" : "/img/projects/spacewargame",
-        "tags" : [ "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
+        "tags" : [ "Game", "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
         "title" : "Space War Game"
       }, {
+        "order": "9",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/piratesEscapeGame",
           "liveVersion" : "https://bftawfik.github.io/piratesEscapeGame/"
         },
         "projectImgPath" : "/img/projects/piratesescapegame",
-        "tags" : [ "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
+        "tags" : [ "Game", "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
         "title" : "Pirates Escape Game"
       }, {
+        "order": "8",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/redRidingHoodGame",
           "liveVersion" : "https://bftawfik.github.io/redRidingHoodGame/"
         },
         "projectImgPath" : "/img/projects/redridinghoodgame",
-        "tags" : [ "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
+        "tags" : [ "Game", "Javascript", "HTML5", "Canvas", "Css", "Github", "Photoshop", "Illustrator" ],
         "title" : "Red Riding Hood Game"
       }, {
+        "order": "3",
         "externalLinks" : {
           "github" : "https://github.com/bftawfik/mvcTodos",
           "liveVersion" : "https://bftawfik.github.io/mvcTodos/"
@@ -145,6 +154,15 @@
         "projectImgPath" : "/img/projects/mvctodos",
         "tags" : [ "Javascript", "HTML5", "Css", "Github" ],
         "title" : "MVC Todos"
+      }, {
+        "order": "4",
+        "externalLinks" : {
+          "github" : "https://github.com/bftawfik/memoryGame",
+          "liveVersion" : "https://bftawfik.github.io/memoryGame/"
+        },
+        "projectImgPath" : "/img/projects/memorygame",
+        "tags" : [ "Game", "Javascript", "HTML5", "Css", "Github", "Phaser.js", "Photoshop" ],
+        "title" : "Memory Game Using Phaser.js"
       } ]
     }
   }
